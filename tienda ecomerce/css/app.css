@@ -1,22 +1,10 @@
 body{
-  margin-top: 20px;
-}
-
-.r_sociales{
-  font-size: 32px;
-  padding: 2px;
-  color: red;
-}
-.formulario{
-  font-size: 16px;
-}
-.compra{
-
+  margin-top: 15px;
 }
 .text h5, h6{
   text-align: center;
-  margin-top: 5px;
 }
 .decoracion .callout .callout{
-  background:rgba(255, 10, 10, 0.22);
+  background: rgba(48, 48, 48, 0.25);
+  box-shadow: 1px 2px 6px rgba(1, 1, 1, 0.6);
 }
